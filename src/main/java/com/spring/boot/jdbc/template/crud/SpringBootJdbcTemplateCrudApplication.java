@@ -1,4 +1,4 @@
-package com.example.spring.boot.jdbc.template.crud;
+package com.spring.boot.jdbc.template.crud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
